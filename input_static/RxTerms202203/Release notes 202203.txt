@@ -1,0 +1,7 @@
+RxTerms Release Notes
+=====================
+
+Changes in 202203 Version
+-------------------------
+
+RXCUI counts by TTY (excluding suppressed and retired concepts) : SBD: 7,671; SCD: 9,942; BPCK: 496; GPCK: 320

@@ -1,0 +1,21 @@
+version: "3.8"
+
+services:
+  python:
+    build: docker/
+    tty: true
+    stdin_open: true
+    entrypoint: /app/docker/entrypoint.sh
+    ports:
+    - 8070:8070
+    - 8071:8071
+    environment:
+      DB_URL: test
+    volumes:
+      - openepicsvr:/volumes/openepicsvr
+      - type: bind
+        source: ./
+        target: /app
+
+volumes:
+  openepicsvr:

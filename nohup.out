@@ -1,0 +1,64 @@
+[I 16:27:31.288 NotebookApp] Serving notebooks from local directory: /app
+[I 16:27:31.291 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 16:27:31.292 NotebookApp] http://ea984ecf1b6d:8070/?token=76bbd0685875f6acb90ba82aff6bf2b0ba7694d65cfdd667
+[I 16:27:31.293 NotebookApp]  or http://127.0.0.1:8070/?token=76bbd0685875f6acb90ba82aff6bf2b0ba7694d65cfdd667
+[I 16:27:31.294 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:27:31.303 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-19-open.html
+    Or copy and paste one of these URLs:
+        http://ea984ecf1b6d:8070/?token=76bbd0685875f6acb90ba82aff6bf2b0ba7694d65cfdd667
+     or http://127.0.0.1:8070/?token=76bbd0685875f6acb90ba82aff6bf2b0ba7694d65cfdd667
+[I 16:36:59.056 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 16:36:59.368 NotebookApp] Serving notebooks from local directory: /app
+[I 16:36:59.370 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 16:36:59.371 NotebookApp] http://c6331ffca0be:8070/?token=92100b416c0cabda252db7c650b8135abc7bb3921b90de06
+[I 16:36:59.372 NotebookApp]  or http://127.0.0.1:8070/?token=92100b416c0cabda252db7c650b8135abc7bb3921b90de06
+[I 16:36:59.373 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:36:59.378 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-8-open.html
+    Or copy and paste one of these URLs:
+        http://c6331ffca0be:8070/?token=92100b416c0cabda252db7c650b8135abc7bb3921b90de06
+     or http://127.0.0.1:8070/?token=92100b416c0cabda252db7c650b8135abc7bb3921b90de06
+[I 16:37:25.665 NotebookApp] Serving notebooks from local directory: /app
+[I 16:37:25.666 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 16:37:25.667 NotebookApp] http://c6331ffca0be:8070/?token=25f9c8cbce4b43080694490fd6d73124a99f7a5d1f99358b
+[I 16:37:25.668 NotebookApp]  or http://127.0.0.1:8070/?token=25f9c8cbce4b43080694490fd6d73124a99f7a5d1f99358b
+[I 16:37:25.669 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:37:25.674 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-10-open.html
+    Or copy and paste one of these URLs:
+        http://c6331ffca0be:8070/?token=25f9c8cbce4b43080694490fd6d73124a99f7a5d1f99358b
+     or http://127.0.0.1:8070/?token=25f9c8cbce4b43080694490fd6d73124a99f7a5d1f99358b
+[I 16:38:00.395 NotebookApp] Serving notebooks from local directory: /app
+[I 16:38:00.397 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 16:38:00.398 NotebookApp] http://c6331ffca0be:8070/?token=e1154146a866ee97d7e1a82b388fda46d9f9a4e51d8b2e5b
+[I 16:38:00.399 NotebookApp]  or http://127.0.0.1:8070/?token=e1154146a866ee97d7e1a82b388fda46d9f9a4e51d8b2e5b
+[I 16:38:00.400 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:38:00.406 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-8-open.html
+    Or copy and paste one of these URLs:
+        http://c6331ffca0be:8070/?token=e1154146a866ee97d7e1a82b388fda46d9f9a4e51d8b2e5b
+     or http://127.0.0.1:8070/?token=e1154146a866ee97d7e1a82b388fda46d9f9a4e51d8b2e5b
+[I 16:39:36.404 NotebookApp] Serving notebooks from local directory: /app
+[I 16:39:36.405 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 16:39:36.407 NotebookApp] http://e33b3bb238ab:8070/?token=45df0ef72baaf320747ecd9a4934a68f8f95a3eac7765f46
+[I 16:39:36.408 NotebookApp]  or http://127.0.0.1:8070/?token=45df0ef72baaf320747ecd9a4934a68f8f95a3eac7765f46
+[I 16:39:36.409 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:39:36.415 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-18-open.html
+    Or copy and paste one of these URLs:
+        http://e33b3bb238ab:8070/?token=45df0ef72baaf320747ecd9a4934a68f8f95a3eac7765f46
+     or http://127.0.0.1:8070/?token=45df0ef72baaf320747ecd9a4934a68f8f95a3eac7765f46
+[I 16:40:01.271 NotebookApp] 302 GET /?token=e1154146a866ee97d7e1a82b388fda46d9f9a4e51d8b2e5b (172.20.0.1) 1.800000ms
+[I 16:40:01.285 NotebookApp] 302 GET /tree?token=e1154146a866ee97d7e1a82b388fda46d9f9a4e51d8b2e5b (172.20.0.1) 1.490000ms
+[I 16:40:34.573 NotebookApp] 302 GET /?token=45df0ef72baaf320747ecd9a4934a68f8f95a3eac7765f46 (172.20.0.1) 0.650000ms
